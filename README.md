@@ -6,4 +6,4 @@ Housing in India varies from palaces of erstwhile maharajas to modern apartment 
 
 
 Algorithms:
- I have used Grid Search method for hyperparameter tuning and I have used Linear Regressor, Decision Tree Regressor, KNN, Random forest Regressor .
+ I have used Grid Search method for hyperparameter tuning and I have used Linear Regressor, Decision Tree Regressor, KNN, Random forest Regressor for prediction of house Rent .
